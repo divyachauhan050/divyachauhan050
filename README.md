@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **divyachauhan050@gmail.com**
 
-- ⚡ Fun fact **I like to travel and learn new languages. I am currently improving my proficiency in German. I'm also an avid photographer. I like to stay fit and do that by playing tennis.**
+- ⚡ Fun facts **I like to travel and learn new languages. I am currently improving my proficiency in German. I'm also an avid photographer. Lastly, I play tennis to stay fit (I'm a huge Rafa fan!).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
