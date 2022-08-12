@@ -1,12 +1,10 @@
-[![MasterHead](https://thumbs.gfycat.com/InfiniteUntidyAkitainu-size_restricted.gif)]
+<p align="center">  <img src="https://www.technoloader.com/blog/wp-content/uploads/2019/05/jgkl-1.gif"/> </p>
 
 <h1 align="center">Yo 👋, I'm Divya Chauhan</h1>
 <h3 align="center">A Data Scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*UFK4FjRiapOJ44dwksBanw.gif">
+<img align="right" alt="Coding" width="400" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyachauhan050&label=Profile%20views&color=0e75b6&style=flat" alt="divyachauhan050" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyachauhan050" alt="divyachauhan050" /></a> </p>
 
 - 🌱 I’m currently learning **ML**
 
